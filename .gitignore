@@ -2,6 +2,8 @@ node_modules
 
 .DS_Store
 
-.wrangler/*
+.wrangler
 /wrangler.toml
 /deploy/worker/worker-secrets.json
+
+.workbuddy
