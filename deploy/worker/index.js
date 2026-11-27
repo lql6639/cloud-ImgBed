@@ -40,6 +40,7 @@ import * as apiManageSysConfigUpload from '../../functions/api/manage/sysConfig/
 import * as apiManageTagsApply from '../../functions/api/manage/tags/apply.js';
 import * as apiManageTagsAutocomplete from '../../functions/api/manage/tags/autocomplete.js';
 import * as apiManageTagsBatch from '../../functions/api/manage/tags/batch.js';
+import * as apiAlcyWallpaper_index from '../../functions/api/alcy/wallpaper/index.js';
 import * as apiAuthAdminLogin from '../../functions/api/auth/adminLogin.js';
 import * as apiAuthLogin from '../../functions/api/auth/login.js';
 import * as apiAuthLogout from '../../functions/api/auth/logout.js';
@@ -101,6 +102,7 @@ const routes = [
     { path: '/api/manage/tags/apply', module: apiManageTagsApply, middlewares: [mw_root, mw_api, mw_api_manage] },
     { path: '/api/manage/tags/autocomplete', module: apiManageTagsAutocomplete, middlewares: [mw_root, mw_api, mw_api_manage] },
     { path: '/api/manage/tags/batch', module: apiManageTagsBatch, middlewares: [mw_root, mw_api, mw_api_manage] },
+    { path: '/api/alcy/wallpaper', module: apiAlcyWallpaper_index, middlewares: [mw_root, mw_api] },
     { path: '/api/auth/adminLogin', module: apiAuthAdminLogin, middlewares: [mw_root, mw_api] },
     { path: '/api/auth/login', module: apiAuthLogin, middlewares: [mw_root, mw_api] },
     { path: '/api/auth/logout', module: apiAuthLogout, middlewares: [mw_root, mw_api] },
