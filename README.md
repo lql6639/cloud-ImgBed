@@ -6,9 +6,7 @@
 
 # 1. 项目介绍
 
-CloudFlare ImgBed 是支持 Docker 与 Serverless 部署的自建图床和文件托管方案，可将 **Telegram**、**Discord**、**Cloudflare R2**、**S3 兼容存储**、**Hugging Face**、**WebDAV** 等渠道统一接入一个管理界面。项目提供文件管理、身份认证、目录组织、内容审核、RESTful API 与 WebDAV，同时也在不断增加 AI 驱动的图片标签识别等个性化能力，适用于个人图床、网站资源管理和轻量文件分发。 **[查看完整功能 →](https://cfbed.sanyue.de/guide/features.html)**
-
-<https://github.com/user-attachments/assets/5de3b74c-7d55-44f0-834e-0728e4c3e873>
+CloudFlare ImgBed 是支持 Docker 与 Serverless 部署的自建图床和文件托管方案，可将 **Telegram**、**Discord**、**Cloudflare R2**、**S3 兼容存储**、**Hugging Face**、**WebDAV** 等渠道统一接入一个管理界面。项目提供文件管理、身份认证、目录组织、内容审核、RESTful API 与 WebDAV，同时也在不断增加 AI 驱动的图片标签识别等个性化能力，适用于个人图床、网站资源管理和轻量文件分发。 **[查看完整功能 →](https://cfbed.sanyue.de)**
 
 **架构一览**
 
@@ -20,38 +18,34 @@ CloudFlare ImgBed 是支持 Docker 与 Serverless 部署的自建图床和文件
 
 <table width="100%">
   <tr>
-    <td align="center" width="16%"><strong><a href="https://www.cloudflare.com/">Cloudflare</a></strong></td>
+    <td align="center"><strong><a href="https://www.cloudflare.com/">Cloudflare</a></strong></td>
     <td><sub>入选 Project Alexandria 计划，提供高级 CDN 加速及安全防护。</sub></td>
   </tr>
   <tr>
-    <td align="center" width="16%"><strong><a href="https://edgeone.ai/?from=github">EdgeOne</a></strong></td>
+    <td align="center"><strong><a href="https://www.hncloud.com/activity/activity_2026summer.html?k=MarSeventh">华纳云</a></strong></td>
+    <td><sub>提供稳定、优质的云计算资源，通过本项目链接注册立享超值优惠！</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong><a href="https://www.svyun.com/recommend/AELZ0UeMz8K11Zg7pEXC">速维云</a></strong></td>
+    <td><sub>提供稳定、优质的云计算资源，通过本项目链接注册立享超值优惠！</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong><a href="https://edgeone.ai/?from=github">EdgeOne</a></strong></td>
     <td><sub>入选开发者合作计划，高级 CDN 加速及安全防护</sub></td>
   </tr>
   <tr>
-    <td align="center" width="16%"><strong><a href="https://www.hncloud.com/activity/activity_2026summer.html?k=MarSeventh">华纳云</a></strong></td>
-    <td><sub>提供稳定、优质的云计算资源，通过本项目链接注册立享超值优惠！</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="16%"><strong><a href="https://www.svyun.com/recommend/AELZ0UeMz8K11Zg7pEXC">速维云</a></strong></td>
-    <td><sub>提供稳定、优质的云计算资源，通过本项目链接注册立享超值优惠！</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="16%"><strong><a href="https://linux.do/t/topic/2578561">Linux DO</a></strong></td>
-    <td><sub>提供社区支持</sub></td>
+    <td align="center"><strong><a href="https://linux.do/t/topic/2578561">Linux DO</a></strong></td>
+    <td><sub>提供社区支持，期待您的参与！</sub></td>
   </tr>
 </table>
 
-
-欢迎前往 [CloudFlare ImgBed 生态](https://cfbed.sanyue.de/about/ecosystem.html)，探索社区提供的扩展、应用和教程，包括：
-
-- **优秀的插件扩展**：浏览器扩展，Typecho、WordPress、Obsidian 等平台的集成插件，OpenList 驱动等
 - **丰富的周边应用**：桌面客户端、Bot 辅助工具等
 - **AI 智能体应用**：项目官方 Skill 及相关工具
 - **优质的教程内容**：内容创作者分享的优质视频和图文教程
 
 您也可以向社区分享自己的作品，提交规范请参见[生态建设征集令](https://github.com/MarSeventh/CloudFlare-ImgBed/discussions/606)，期待您的参与！
 
-# 5. 开源协议与相关项目
+# 3. 开源协议与相关项目
 
 ## 📄 开源协议
 
